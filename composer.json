@@ -1,0 +1,15 @@
+{
+    "name": "pedapp/auth",
+    "description": "auth with phone number",
+    "authors": [
+        {
+            "name": "pedram",
+            "email": "persianped@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PedApp\\Auth\\": "src/"
+        }
+    }
+}
