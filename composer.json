@@ -1,5 +1,5 @@
 {
-    "name": "pedapp/auth",
+    "name": "pedapp/test",
     "description": "auth with phone number",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "PedApp\\Auth\\": "src/"
+            "PedApp\\Test\\": "src/"
         }
     }
 }
